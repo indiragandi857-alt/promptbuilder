@@ -1,0 +1,5 @@
+{
+  "name": "PromptBuilder",
+  "description": "A visual prompt builder for AI image generators.",
+  "requestFramePermissions": []
+}
